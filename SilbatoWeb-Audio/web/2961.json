@@ -1,0 +1,30 @@
+{
+    "id": 2961,
+    "name": "Sample Instrument",
+    "samples": [
+        {
+            "id": 1,
+            "name": "sampleSilbatoGrave",
+            "url": "media/audio/2961/2961_largo_suave_grave.wav"
+        },
+        {
+            "id": 2,
+            "name": "sampleSilbatoAgudo",
+            "url": "media/audio/2961/2961_largo_suave_agudo.wav"
+        }
+    ],
+
+    "sustainPointLoops":[ 
+        {   
+            "buffer" : "grave",
+            "start": 269.5,
+            "end": 4930
+        },
+    { 
+            "buffer" : "agudo",        
+            "start": 298.1,
+            "end": 2889
+        }
+    ]
+        
+}
